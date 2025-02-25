@@ -1,4 +1,4 @@
-# Assignment 1: Data Analytics
+# CS3203N Assignment 1: Balanced Risk Set Matching
 
 Submitted by: Farah Jane Basilisco & Clybel Djen Bonachita
 
